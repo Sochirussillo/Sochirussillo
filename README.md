@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sochirussillo
+- 👋 Hi, I’m @QuinnxRogers
 - 👀 I’m interested in IT, genetics, skating and motorcyc;es
 - 🌱 I’m currently learning Python, SQL, R, Google Data Analytics
 - 💞️ I’m looking to collaborate on projects that I can learn from and make a big impact with our results
